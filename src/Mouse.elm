@@ -9,6 +9,7 @@ module Mouse
         , onMove
         , onUp
         , onWithOptions
+        , eventDecoder
         )
 
 {-| Handling detailed mouse events.
